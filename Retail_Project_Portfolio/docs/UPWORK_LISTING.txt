@@ -1,0 +1,31 @@
+TITLE
+Retail Sales Analysis | Python Cleaning and Business Reporting
+
+ROLE
+Data analysis and reporting - academic portfolio example
+
+DESCRIPTION
+Turned 541,909 retail invoice lines into an auditable sales report using Python
+and pandas. Separated gross sales from recorded cancellations, calculated net
+value, ranked products by stock code, and analyzed monthly patterns, countries
+and repeat purchasers. Delivered six summary tables, five charts and a cleaning
+audit, supported by automated tests and independent checks. Public historical
+data; this is a portfolio example, not a paid client engagement.
+
+SKILLS
+Python; pandas; Data Cleaning; Data Analysis; Data Visualization
+
+SUGGESTED IMAGES
+reports/portfolio_cover.png
+reports/01_sales_and_cancellations.png
+reports/02_monthly_performance.png
+reports/03_top_products.png
+
+CASE STUDY
+docs/Case_Study.html opens as a standalone report with embedded charts.
+
+CREDIT
+Original coursework supplied by Dilsher Singh. This edition includes AI-assisted
+refactoring, validation and presentation. Credit any original collaborators and
+describe your own contribution accurately. Dataset: Chen (2015), UCI Online Retail,
+https://doi.org/10.24432/C5BW33, CC BY 4.0. No commercial savings are claimed.

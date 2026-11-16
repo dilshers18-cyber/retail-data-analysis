@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "tests_passed": 20,
+  "command": "python -m pytest -q",
+  "full_workbook_execution": "passed",
+  "sample_execution": "passed",
+  "independent_verification": "6 analytical tables; 19417 numeric checks"
+}

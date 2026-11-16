@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "method": "Independent openpyxl/Decimal aggregation, no pandas or production imports",
+  "tables_checked": 6,
+  "numeric_checks": 19417,
+  "raw_rows": 541909,
+  "retained_rows": 534129,
+  "integer_pence_checks": "exact",
+  "percentage_tolerance": 1e-07
+}

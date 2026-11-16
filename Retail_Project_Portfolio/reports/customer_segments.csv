@@ -1,0 +1,4 @@
+Segment,Customers,GrossPence,CancellationPence,NetPence
+Cancellation only,33,0,1041124,-1041124
+One-invoice purchaser,1493,61398956,9514592,51884364
+Repeat purchaser,2845,827321933,50313231,777008702

@@ -1,0 +1,15 @@
+Rule,Rows
+raw_rows,541909
+exact_duplicate_rows_removed,5268
+missing_essential_fields_removed,0
+invalid_numeric_removed,0
+zero_or_fractional_quantity_removed,0
+nonpositive_price_removed,2512
+cancellation_sign_conflict_removed,0
+unclassified_negative_quantity_removed,0
+retained_rows,534129
+sale_rows,524878
+cancellation_rows,9251
+missing_customer_rows_retained,132565
+missing_description_rows_retained,0
+nonstandard_code_rows_retained,2957
